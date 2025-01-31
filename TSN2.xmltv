@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250131143028 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/404833/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=404833&amp;date=20250131&amp;timezone=None">
+  <channel id="404833">
+    <display-name lang="Canada">TSN2</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="404833" start="20250131000000 +0000" stop="20250131023000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>The latest hockey action from across the NHL.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131023000 +0000" stop="20250131030000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131030000 +0000" stop="20250131033000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131033000 +0000" stop="20250131040000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131040000 +0000" stop="20250131043000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131043000 +0000" stop="20250131050000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131050000 +0000" stop="20250131060000 +0000">
+    <title lang="zh">PokerStars</title>
+    <desc>The best and most complete coverage of the important poker tournaments and events worldwide.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131060000 +0000" stop="20250131090000 +0000">
+    <title lang="zh">2025 IIHF World Junior Championship</title>
+    <desc>From the Canadian Tire Centre in Kanata, Ontario.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131090000 +0000" stop="20250131120000 +0000">
+    <title lang="zh">2025 IIHF World Junior Championship</title>
+    <desc>From the Canadian Tire Centre in Kanata, Ontario.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131120000 +0000" stop="20250131150000 +0000">
+    <title lang="zh">2025 IIHF World Junior Championship</title>
+    <desc>From the Canadian Tire Centre in Kanata, Ontario.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131150000 +0000" stop="20250131153000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131153000 +0000" stop="20250131160000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131160000 +0000" stop="20250131163000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131163000 +0000" stop="20250131170000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131170000 +0000" stop="20250131190000 +0000">
+    <title lang="zh">Live: The Pat McAfee Show</title>
+    <desc>Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131190000 +0000" stop="20250131200000 +0000">
+    <title lang="zh">Why We Love Sports</title>
+    <desc>Discussions of the positive aspects of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131200000 +0000" stop="20250131210000 +0000">
+    <title lang="zh">PokerStars</title>
+    <desc>The best and most complete coverage of the important poker tournaments and events worldwide.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131210000 +0000" stop="20250131213000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131213000 +0000" stop="20250131220000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131220000 +0000" stop="20250131223000 +0000">
+    <title lang="zh">NFL GameDay</title>
+    <desc>Coverage of 2025 NFL Conference Championships.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131223000 +0000" stop="20250131230000 +0000">
+    <title lang="zh">STIHL Timbersports</title>
+    <desc>Showcasing the world's best lumberjacks competing across six events.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250131230000 +0000" stop="20250201000000 +0000">
+    <title lang="zh">Live: Overdrive</title>
+    <desc>Expert analysis on the day's biggest sports stories.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="404833" start="20250201000000 +0000" stop="20250201003000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201003000 +0000" stop="20250201030000 +0000">
+    <title lang="zh">Live: League One Volleyball</title>
+    <desc>From Gateway Center Arena at College Park in College Park, Ga.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201030000 +0000" stop="20250201033000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201033000 +0000" stop="20250201040000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201040000 +0000" stop="20250201050000 +0000">
+    <title lang="zh">Why We Love Sports</title>
+    <desc>Discussions of the positive aspects of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201050000 +0000" stop="20250201073000 +0000">
+    <title lang="zh">NLL Lacrosse</title>
+    <desc>From Scotiabank Centre in Halifax, Nova Scotia.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201073000 +0000" stop="20250201080000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201080000 +0000" stop="20250201083000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201083000 +0000" stop="20250201090000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201090000 +0000" stop="20250201093000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201093000 +0000" stop="20250201100000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201100000 +0000" stop="20250201103000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201103000 +0000" stop="20250201110000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201110000 +0000" stop="20250201113000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201113000 +0000" stop="20250201120000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201120000 +0000" stop="20250201123000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201123000 +0000" stop="20250201130000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201130000 +0000" stop="20250201133000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201133000 +0000" stop="20250201160000 +0000">
+    <title lang="zh">NLL Lacrosse</title>
+    <desc>From Scotiabank Centre in Halifax, Nova Scotia.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201160000 +0000" stop="20250201170000 +0000">
+    <title lang="zh">Live: College GameDay</title>
+    <desc>Originating from the site of Saturday's biggest games, host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, Pat McAfee, and Nick Saban cover college football with pregame breakdowns, exclusive interviews, features and predictions.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201170000 +0000" stop="20250201190000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Thompson-Boling Arena in Knoxville, Tenn.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201190000 +0000" stop="20250201210000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>Men's college basketball action.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201210000 +0000" stop="20250201230000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Paul and Alejandra Foster Pavilion in Waco, Texas.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201230000 +0000" stop="20250201233000 +0000">
+    <title lang="zh">Live: College Basketball Scoreboard</title>
+    <desc>Highlights from the world of college basketball.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="404833" start="20250201233000 +0000" stop="20250202000000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Cameron Indoor Stadium in Durham, N.C.</desc>
+    <date>2025-02-01</date>
+  </programme>
+</tv>

@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250131143110 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405079/20250130.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405079&amp;date=20250130&amp;timezone=None">
+  <channel id="405079">
+    <display-name lang="Canada">TSN5</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="405079" start="20250130000000 +0000" stop="20250130023000 +0000">
+    <title lang="zh">Live: Professional Women's Hockey League</title>
+    <desc>From Place Bell in Laval-Ouest, Québec.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130023000 +0000" stop="20250130033000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130033000 +0000" stop="20250130043000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130043000 +0000" stop="20250130050000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130050000 +0000" stop="20250130060000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130060000 +0000" stop="20250130070000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130070000 +0000" stop="20250130080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130080000 +0000" stop="20250130090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130090000 +0000" stop="20250130100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130100000 +0000" stop="20250130110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130110000 +0000" stop="20250130120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130120000 +0000" stop="20250130130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130130000 +0000" stop="20250130140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130140000 +0000" stop="20250130150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130150000 +0000" stop="20250130160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130160000 +0000" stop="20250130170000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130170000 +0000" stop="20250130173000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130173000 +0000" stop="20250130180000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130180000 +0000" stop="20250130190000 +0000">
+    <title lang="zh">PokerStars</title>
+    <desc>The best and most complete coverage of the important poker tournaments and events worldwide.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130190000 +0000" stop="20250130193000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130193000 +0000" stop="20250130200000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130200000 +0000" stop="20250130210000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130210000 +0000" stop="20250130220000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130220000 +0000" stop="20250130223000 +0000">
+    <title lang="zh">Live: Around the Horn</title>
+    <desc>Sportswriters around the country discuss sports issues.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130223000 +0000" stop="20250130230000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250130230000 +0000" stop="20250131000000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-30</date>
+  </programme>
+  <programme channel="405079" start="20250131000000 +0000" stop="20250131023000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From the Canadian Tire Centre in Kanata, Ontario.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131023000 +0000" stop="20250131033000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131033000 +0000" stop="20250131043000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131043000 +0000" stop="20250131050000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131050000 +0000" stop="20250131060000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131060000 +0000" stop="20250131070000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131070000 +0000" stop="20250131080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131080000 +0000" stop="20250131090000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131090000 +0000" stop="20250131100000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131100000 +0000" stop="20250131110000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131110000 +0000" stop="20250131120000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131120000 +0000" stop="20250131130000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131130000 +0000" stop="20250131140000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131140000 +0000" stop="20250131150000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131150000 +0000" stop="20250131160000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131160000 +0000" stop="20250131170000 +0000">
+    <title lang="zh">SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131170000 +0000" stop="20250131173000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131173000 +0000" stop="20250131180000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131180000 +0000" stop="20250131183000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The most outrageous moments in NASCAR history.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131183000 +0000" stop="20250131190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131190000 +0000" stop="20250131193000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131193000 +0000" stop="20250131200000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131200000 +0000" stop="20250131210000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131210000 +0000" stop="20250131220000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131220000 +0000" stop="20250131223000 +0000">
+    <title lang="zh">Live: Around the Horn</title>
+    <desc>Sportswriters around the country discuss sports issues.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131223000 +0000" stop="20250131230000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131230000 +0000" stop="20250131233000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405079" start="20250131233000 +0000" stop="20250201000000 +0000">
+    <title lang="zh">Live: NLL Lacrosse</title>
+    <desc>From Scotiabank Centre in Halifax, Nova Scotia.</desc>
+    <date>2025-01-31</date>
+  </programme>
+</tv>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20250131143014 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405049/20250131.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405049&amp;date=20250131&amp;timezone=None">
+  <channel id="405049">
+    <display-name lang="Canada">TSN1</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="405049" start="20250131000000 +0000" stop="20250131013000 +0000">
+    <title lang="zh">Live: 2025 Pro Bowl Games: Skills Showdown</title>
+    <desc>Featuring AFC and NFC stars competing against each other in unique competitions.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131013000 +0000" stop="20250131033000 +0000">
+    <title lang="zh">Live: Women's College Basketball</title>
+    <desc>From Bramlage Coliseum in Mahnattan, Kan.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131033000 +0000" stop="20250131043000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131043000 +0000" stop="20250131050000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The most outrageous moments in NASCAR history.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131050000 +0000" stop="20250131060000 +0000">
+    <title lang="zh">Live: SC With Jay Onrait</title>
+    <desc>The latest scores and highlights, with host Jay Onrait.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131060000 +0000" stop="20250131070000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131070000 +0000" stop="20250131080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131080000 +0000" stop="20250131083000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131083000 +0000" stop="20250131093000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131093000 +0000" stop="20250131103000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131103000 +0000" stop="20250131113000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131113000 +0000" stop="20250131123000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131123000 +0000" stop="20250131133000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131133000 +0000" stop="20250131143000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131143000 +0000" stop="20250131153000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131153000 +0000" stop="20250131163000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131163000 +0000" stop="20250131173000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131173000 +0000" stop="20250131183000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131183000 +0000" stop="20250131190000 +0000">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131190000 +0000" stop="20250131193000 +0000">
+    <title lang="zh">NFL GameDay</title>
+    <desc>Coverage of 2025 NFL Conference Championships.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131193000 +0000" stop="20250131200000 +0000">
+    <title lang="zh">STIHL Timbersports</title>
+    <desc>Showcasing the world's best lumberjacks competing across six events.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131200000 +0000" stop="20250131210000 +0000">
+    <title lang="zh">Live: NBA Today</title>
+    <desc>In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131210000 +0000" stop="20250131220000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131220000 +0000" stop="20250131223000 +0000">
+    <title lang="zh">Live: Around the Horn</title>
+    <desc>Sportswriters around the country discuss sports issues.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131223000 +0000" stop="20250131230000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131230000 +0000" stop="20250131233000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250131233000 +0000" stop="20250201000000 +0000">
+    <title lang="zh">Live: NLL Lacrosse</title>
+    <desc>From Scotiabank Centre in Halifax, Nova Scotia.</desc>
+    <date>2025-01-31</date>
+  </programme>
+  <programme channel="405049" start="20250201020000 +0000" stop="20250201030000 +0000">
+    <title lang="zh">Live: NBA Basketball</title>
+    <desc>Professional basketball action from the NBA.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201030000 +0000" stop="20250201040000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201040000 +0000" stop="20250201050000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201050000 +0000" stop="20250201060000 +0000">
+    <title lang="zh">Beyond Their Years: The Incredible Legacies of Herb Carnegie and Buck O'Neil</title>
+    <desc>The lives of sports and social justice icons Herb Carnegie and Buck O'Neil, who because of their race, were excluded from competing at the highest levels of their sports. Both men fought that injustice by working to make the world more inclusive.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201060000 +0000" stop="20250201070000 +0000">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201070000 +0000" stop="20250201080000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201080000 +0000" stop="20250201090000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201090000 +0000" stop="20250201100000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201100000 +0000" stop="20250201110000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201110000 +0000" stop="20250201120000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201120000 +0000" stop="20250201130000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201130000 +0000" stop="20250201140000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201140000 +0000" stop="20250201150000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201150000 +0000" stop="20250201160000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201160000 +0000" stop="20250201170000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201170000 +0000" stop="20250201180000 +0000">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201180000 +0000" stop="20250201193000 +0000">
+    <title lang="zh">2025 Pro Bowl Games: Skills Showdown</title>
+    <desc>Featuring AFC and NFC stars competing against each other in unique competitions.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201193000 +0000" stop="20250201200000 +0000">
+    <title lang="zh">Breaking Down Barriers</title>
+    <desc>On January 18, 1958, Willie O'Ree made history with the Boston Bruins as the first black player to skate in a National Hockey League game. O'Ree went on to play professional hockey for 21 years.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250201200000 +0000" stop="20250202000000 +0000">
+    <title lang="zh">Live: PGA Tour Golf</title>
+    <desc>From Pebble Beach Golf Links in Pebble Beach, Calif.</desc>
+    <date>2025-02-01</date>
+  </programme>
+  <programme channel="405049" start="20250202000000 +0000" stop="20250203000000 +0000">
+    <title lang="zh">Why We Love Sports</title>
+    <desc>Discussions of the positive aspects of sports.</desc>
+    <date>2025-02-02</date>
+  </programme>
+</tv>
